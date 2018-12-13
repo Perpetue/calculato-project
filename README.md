@@ -8,7 +8,7 @@ My project portfolio, concluding my name ,my picture,  my project created ,my ba
 This is a great place to list setup instructions in a simple easy-to-understand.use google chrome and text-editor.
 
 ## Link to live site on GitHub Pages
-https://github.com/Perpetue/portfolio-projects
+https://github.com/Perpetue/calculato-project
 ## Technologies Used
 About the languages and tools I used to create this project. Assume that I know you probably used HTML ,CSS and Markdown.
 ## Support and contact details
